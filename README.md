@@ -10,7 +10,7 @@
 
 
 ## 🛠  Technologies and tools
-<img src="https://media.giphy.com/media/TpsTNF36M4kX6/giphy.gif" align="right" width="380px" >
+<img src="https://media.giphy.com/media/TpsTNF36M4kX6/giphy.gif" align="right" width="340px" height="350px" >
 
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]()
 &nbsp;
