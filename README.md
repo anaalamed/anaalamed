@@ -4,17 +4,17 @@
 
 
 # 👩🏻‍💻 Junior Full Stack Developer
-[<a href="https://www.linkedin.com/in/ana-levit-2934a0150" target="_blank">
+<a href="https://www.linkedin.com/in/ana-levit-2934a0150" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" margin="100px" height="35" align="right" />
-</a>]()
-&nbsp; &nbsp;
-[<a href="http://portfolio-website-ana.herokuapp.com" target="_blank">
+</a>
+&nbsp;
+<a href="http://portfolio-website-ana.herokuapp.com" target="_blank">
 <img src="https://img.shields.io/badge/-My%20Portfolio-%23282C34?logo=angelList&logoColor=orange" alt="Portfolio logo" title="Portfolio" height="35" align="right"/>
-</a>]()
+</a>
 &nbsp;
 <!-- [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="35" align="right"/>](https://www.linkedin.com/in/ana-levit-2934a0150) -->
 <!-- [<img src="https://img.shields.io/badge/-My%20Portfolio-%23282C34?logo=angelList&logoColor=orange" alt="Portfolio logo" title="Portfolio" height="35" align="right" />](http://portfolio-website-ana.herokuapp.com/) -->
-<br>
+<!-- <br> -->
 
 
 ## 🛠  Technologies and tools
