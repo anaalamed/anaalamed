@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" margin="100px" height="35" align="right" />
 </a>
 &nbsp;
-<a href="http://portfolio-website-ana.herokuapp.com" target="_blank">
+<a href="https://ana-levit-portfolio.web.app" target="_blank">
 <img src="https://img.shields.io/badge/-My%20Portfolio-%23282C34?logo=angelList&logoColor=orange" alt="Portfolio logo" title="Portfolio" height="35" align="right"/>
 </a>
 &nbsp;
