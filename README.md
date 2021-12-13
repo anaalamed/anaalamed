@@ -62,6 +62,8 @@
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Expo-282C34?logo=expo&logoColor=grey" alt="expo logo" title="Expo" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=41B883" alt="Jest logo" title="Jest" height="25" />
 <br>
 
 ## 👾  What I am interested in learning at some point
