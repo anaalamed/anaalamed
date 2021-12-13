@@ -28,7 +28,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />]()
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/-React-%23282C34?logo=react&logoColor=61DAFB%22%20alt=%22React%20Native%20logo" alt="React logo" title="React" height="25" />
 &nbsp;
