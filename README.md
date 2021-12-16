@@ -6,7 +6,7 @@
 
 # 👩🏻‍💻 Junior Full Stack Developer  
 <span>
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=anaalamed&repo=github-visitors-badge&countColor=#3D85C6" alt="Sass logo" title="Sass" height="25" />
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=anaalamed&repo=github-visitors-badge&countColor=#3D85C6" alt="visitors" title="visitors" height="25" />
 &nbsp;
 
 <a href="https://www.linkedin.com/in/ana-levit-2934a0150" target="_blank">
