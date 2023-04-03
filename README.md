@@ -4,9 +4,9 @@
 
 
 
-# 👩🏻‍💻 Junior Full Stack Developer  
+# 👩🏻‍💻 Software Engineer 
 <span>
-<img src="https://api.visitorbadge.io/api/VisitorHit?user=anaalamed&repo=github-visitors-badge&countColor=#3D85C6" alt="visitors" title="visitors" height="25" />
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=anaalamed&repo=github-visitors-badge&countColor=282C34" alt="visitors" title="visitors" height="25" />
 &nbsp;
 
 <a href="https://www.linkedin.com/in/ana-levit-2934a0150" target="_blank">
@@ -46,15 +46,15 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=47A248" alt="java logo" title="java" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySql-282C34?logo=MySql&logoColor=fff" alt="MySql logo" title="MySql" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=6432a8" alt="heroku logo" title="heroku" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=e35b17" alt="postman logo" title="postman" height="25" />
 <br>
