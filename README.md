@@ -5,7 +5,7 @@
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=anaalamed&repo=github-visitors-badge&countColor=282C34" alt="visitors" title="visitors" height="25" />
 &nbsp;
 
-<a href="https://www.linkedin.com/in/ana-levit-2934a0150" target="_blank">
+<a href="https://www.linkedin.com/in/ana-levit" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" margin="100px" height="35" align="right" />
 </a>
 &nbsp;
