@@ -19,7 +19,7 @@
 
 <img src="profileAI.jpeg" align="right" width="340px" height="330px" >
 
-<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=47A248" alt="java" title="java" height="25" />
+[<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=47A248" alt="java" title="java" height="25" />]()
 &nbsp;
 <img src="https://img.shields.io/badge/-Spring-%23282C34?logo=spring&logoColor=green" alt="spring" title="spring" height="25" />
 &nbsp;
@@ -53,7 +53,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/-GCP-%23282C34?logo=googleCloud&logoColor=blue" alt="gcp" title="gcp" height="25" />
 &nbsp;
-
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase" title="Firebase" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git" title="git" height="25" />
@@ -66,7 +65,7 @@
 
 ## 📖 What I am currently learning / improving on
 
-<img src="https://img.shields.io/badge/-Docker-%23282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />
+[<img src="https://img.shields.io/badge/-Docker-%23282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />]()
 &nbsp;
 <img src="https://img.shields.io/badge/-Kubernetes-%23282C34?logo=kubernetes&logoColor=blue" alt="kubernetes" title="kubernetes" height="25" />
 &nbsp;
