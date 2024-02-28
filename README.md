@@ -63,7 +63,7 @@
 &nbsp;
 <br>
 
-## 📖 What I am currently learning / improving on
+### 📖 What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/-Docker-%23282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />]()
 &nbsp;
@@ -71,7 +71,7 @@
 &nbsp;
 <br>
 
-## 👾 What I am interested in learning at some point
+### 👾 What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" title="Next.js" height="25" />]()
 &nbsp;
